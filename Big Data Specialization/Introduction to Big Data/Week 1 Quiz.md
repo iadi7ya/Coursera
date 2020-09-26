@@ -1,70 +1,70 @@
-Why Big Data and Where Did it Come From?
+## Why Big Data and Where Did it Come From?
+<br\>
 
 
-Question 1. Which of the following is an example of big data utilized in action today?
+**Question 1**. Which of the following is an example of big data utilized in action today?
 
-The Internet
+* The Internet
 
-Wi-Fi Networks
+* Wi-Fi Networks
 
-*Social Media*
+* **Social Media**
 
-Individual, Unconnected Hospital Databases
-
-
-Question 2. What reasoning was given for the following: why is the "data storage to price ratio" relevant to big data?
-
-It isn't, it was just an arbitrary example of big data usage.
-
-Companies can't afford to own, maintain, and spend the energy to support large data storage unless the cost is sufficiently low.
-
-Larger storage means easier accessibility to big data for every user because it allows users to download in bulk.
-
-*Lower prices mean larger storage becomes easier to access for everyone, creating bigger amounts of data for client-facing services to work with.
-Correct*
+* Individual, Unconnected Hospital Databases
 
 
-Question 3. What is the best description of personalized marketing enabled by big data?
+**Question 2.** What reasoning was given for the following: why is the "data storage to price ratio" relevant to big data?
 
-Being able to obtain and use customer information for groups of consumers and utilize them for marketing needs.
+* It isn't, it was just an arbitrary example of big data usage.
 
-Marketing to each customer on an individual level and suiting to their needs.
+* Companies can't afford to own, maintain, and spend the energy to support large data storage unless the cost is sufficiently low.
 
-*Being able to use personalized data from every single customer for personalized marketing needs.*
+* Larger storage means easier accessibility to big data for every user because it allows users to download in bulk.
 
-
-Question 4. Of the following, which are some examples of personalized marketing related to big data?
-
-News outlets gathering information from the internet in order to report them to the public.
-
-A survey that asks your age and markets to you a specific brand.
-
-*Facebook revealing posts that cater towards similar interests.*
+* **Lower prices mean larger storage becomes easier to access for everyone, creating bigger amounts of data for client-facing services to work with.**
 
 
-Question 5. What is the workflow for working with big data?
+**Question 3**. What is the best description of personalized marketing enabled by big data?
 
-Extrapolation -> Understanding -> Reproducing
+* Being able to obtain and use customer information for groups of consumers and utilize them for marketing needs.
 
-*Big Data -> Better Models -> Higher Precision*
+* Marketing to each customer on an individual level and suiting to their needs.
 
-Theory -> Models -> Precise Advice
-
-
-Question 6. Which is the most compelling reason why mobile advertising is related to big data?
-
-Mobile advertising allows massive cellular/mobile texting to a wide audience, thus providing large amounts of data.
-
-Since almost everyone owns a cell/mobile phone, the mobile advertising market is large and thus requires big data to contain all the information.
-
-*Mobile advertising benefits from data integration with location which requires big data.*
-
-Mobile advertising in and of itself is always associated with big data.
+* **Being able to use personalized data from every single customer for personalized marketing needs.**
 
 
-Question 7. What are the three types of diverse data sources?
+**Question 4.** Of the following, which are some examples of personalized marketing related to big data?
 
-*Machine Data, Organizational Data, and People*
+* News outlets gathering information from the internet in order to report them to the public.
+
+* A survey that asks your age and markets to you a specific brand.
+
+* **Facebook revealing posts that cater towards similar interests.**
+
+
+**Question 5.** What is the workflow for working with big data?
+
+* Extrapolation -> Understanding -> Reproducing
+
+* **Big Data -> Better Models -> Higher Precision**
+
+* Theory -> Models -> Precise Advice
+
+
+**Question 6.** Which is the most compelling reason why mobile advertising is related to big data?
+
+* Mobile advertising allows massive cellular/mobile texting to a wide audience, thus providing large amounts of data.
+
+* Since almost everyone owns a cell/mobile phone, the mobile advertising market is large and thus requires big data to contain all the information.
+
+* **Mobile advertising benefits from data integration with location which requires big data.**
+
+* Mobile advertising in and of itself is always associated with big data.
+
+
+**Question 7.** What are the three types of diverse data sources?
+
+* **Machine Data, Organizational Data, and People**
 
 Sensor Data, Organizational Data, and Social Media
 
@@ -73,131 +73,131 @@ Information Networks, Map Data, and People
 Machine Data, Map Data, and Social Media
 
 
-Question 8. What is an example of machine data?
+**Question 8.** What is an example of machine data?
 
-*Weather station sensor output.*
+* **Weather station sensor output.**
 
-Sorted data from Amazon regarding customer info.
+* Sorted data from Amazon regarding customer info.
 
-Social Media
+* Social Media
 
 
-Question 9. What is an example of organizational data?
+**Question 9.** What is an example of organizational data?
 
-Social Media
+* Social Media
 
-*Disease data from Center for Disease Control.*
+* **Disease data from Center for Disease Control.**
 
-Satellite Data
+* Satellite Data
 
 
-Question 10. Of the three data sources, which is the hardest to implement and streamline into a model?
+**Question 10.** Of the three data sources, which is the hardest to implement and streamline into a model?
 
-Machine Data
+* Machine Data
 
-*People*
+* **People**
 
-Organizational Data
+* Organizational Data
 
 
-Question 11. Which of the following summarizes the process of using data streams?
+**Question 11.** Which of the following summarizes the process of using data streams?
 
-*Integration -> Personalization -> Precision*
+* **Integration -> Personalization -> Precision**
 
-Big Data -> Better Models -> Higher Precision
+* Big Data -> Better Models -> Higher Precision
 
-Theory -> Models -> Precise Advice
+* Theory -> Models -> Precise Advice
 
-Extrapolation -> Understanding -> Reproducing
+* Extrapolation -> Understanding -> Reproducing
 
 
-Question 12. Where does the real value of big data often come from?
+**Question 12.** Where does the real value of big data often come from?
 
-Having data-enabled decisions and actions from the insights of new data.
+* Having data-enabled decisions and actions from the insights of new data.
 
-Size of the data.
+* Size of the data.
 
-Using the three major data sources: Machines, People, and Organizations.
+* Using the three major data sources: Machines, People, and Organizations.
 
-*Combining streams of data and analyzing them for new insights.*
+* **Combining streams of data and analyzing them for new insights.**
 
 
-Question 13. What does it mean for a device to be "smart"?
+**Question 13.** What does it mean for a device to be "smart"?
 
-*Collect data and services autonomously.*
+* **Collect data and services autonomously.**
 
-Having a specific processing speed in order to keep up with the demands of data processing.
+* Having a specific processing speed in order to keep up with the demands of data processing.
 
-Must have a way to interact with the user.
+* Must have a way to interact with the user.
 
 
-Question 14. What does the term "in situ" mean in the context of big data?
+**Question 14.** What does the term "in situ" mean in the context of big data?
 
-In the situation
+* In the situation
 
-*Bringing the computation to the location of the data.*
+* **Bringing the computation to the location of the data.**
 
-The sensors used in airplanes to measure altitude.
+* The sensors used in airplanes to measure altitude.
 
-Accelerometers.
+* Accelerometers.
 
 
-Question 15. Which of the following are reasons mentioned for why data generated by people are hard to process? Choose all that apply.
+**Question 15.** Which of the following are reasons mentioned for why data generated by people are hard to process? Choose all that apply.
 
-*Skilled people to analyze the data are hard to come by.*
+* **Skilled people to analyze the data are hard to come by.**
 
-*The velocity of the data is very high.*
+* **The velocity of the data is very high.**
 
-*Very unstructured data.*
+* **Very unstructured data.**
 
-They cannot be modeled and stored.
+* They cannot be modeled and stored.
 
 
-Question 16. What is the purpose of retrieval and storage; pre-processing; and analysis in order to convert multiple data sources into valuable data?
+**Question 16.** What is the purpose of retrieval and storage; pre-processing; and analysis in order to convert multiple data sources into valuable data?
 
-Since the multi-layered process is built into the Neo4j database connection.
+* Since the multi-layered process is built into the Neo4j database connection.
 
-To enable ETL methods.
+* To enable ETL methods.
 
-Designed to work like the ETL process.
+* Designed to work like the ETL process.
 
-*To allow scalable analytical solutions to big data.*
+* **To allow scalable analytical solutions to big data.**
 
 
-Question 17. Which of the following are benefits of organization-generated data? Choose all that apply.
+**Question 17.** Which of the following are benefits of organization-generated data? Choose all that apply.
 
-*Customer Satisfaction*
+* **Customer Satisfaction**
 
-*Higher Sales*
+* **Higher Sales**
 
-*Better Profit Margins*
+* **Better Profit Margins**
 
-High Velocity
+* High Velocity
 
-*Improved Safety*
+* **Improved Safety**
 
 
-Question 18. What are data silos and why are they bad?
+**Question 18.** What are data silos and why are they bad?
 
-Highly unstructured data. Bad because it does not provide meaningful results for organizations.
+* Highly unstructured data. Bad because it does not provide meaningful results for organizations.
 
-*Data produced from an organization that is spread out. Bad because it creates unsynchronized and invisible data.*
+* **Data produced from an organization that is spread out. Bad because it creates unsynchronized and invisible data.**
 
-A giant centralized database to house all the data production within an organization. Bad because it hinders opportunity for data generation.
+* A giant centralized database to house all the data production within an organization. Bad because it hinders opportunity for data generation.
 
-A giant centralized database to house all the data produces within an organization. Bad because it is hard to maintain as highly structured data.
+* A giant centralized database to house all the data produces within an organization. Bad because it is hard to maintain as highly structured data.
 
 
-Question 19. Which of the following are benefits of data integration? Choose all that apply.
+**Question 19.** Which of the following are benefits of data integration? Choose all that apply.
 
-*Increase data collaboration.*
+* **Increase data collaboration.**
 
-*Adds value to big data.*
+* **Adds value to big data.**
 
-Monitoring of data.
+* Monitoring of data.
 
-*Increase data availability.*
+* **Increase data availability.**
 
-*Reduce data complexity.*
+* **Reduce data complexity.**
 
-*Unify your data system.*
+* **Unify your data system.**
