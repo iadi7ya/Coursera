@@ -1,6 +1,6 @@
 ## Why Big Data and Where Did it Come From?
 <br>
-
+*Correct answers are in bold.*
 
 **Question 1**. Which of the following is an example of big data utilized in action today?
 
