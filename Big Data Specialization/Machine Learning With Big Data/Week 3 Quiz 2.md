@@ -50,7 +50,7 @@ to
 
 **Question 5**. KNIME: What are the target and predicted class labels for the first sample in the test set?
 
-* **Both are humidity_not_low**
+* **Both are _humidity_not_low_**
 
 * Target class label is humidity_not_low, and predicted class label is humidity_low
 
