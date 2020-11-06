@@ -177,9 +177,9 @@ How tightly knit was the 2014 World Cup twitter community on July 13, 2014 (the 
 
 * **a node which can reach all other nodes quickly**
 
-the biggest gossip in the network
+* the biggest gossip in the network
 
-a node which has heavy weight edges to at least 1/2 of the nodes in the network
+* a node which has heavy weight edges to at least 1/2 of the nodes in the network
 
 
 **Question 16**. Which of the following are the 2 core “key player” problems that centrality analytics can address?
@@ -195,7 +195,7 @@ a node which has heavy weight edges to at least 1/2 of the nodes in the network
 
 **Question 17**. What kind of centrality would you want to analyze in a graph if you wanted to inject information that flows through the shortest path in a network and have it spread quickly?
 
-**Closeness**
+* **Closeness**
 
 * Between-ness
 
