@@ -49,15 +49,19 @@ _Correct answers are in **bold**._
 **Question 5**. Which one of these plots represents a ReLU activation function?
 
 * Figure 1:
+
 ![](images/question5opt1.png)
 
 * Figure 2:
+
 ![](images/question5opt2.png)
 
 * **Figure 3:**
+
 ![](images/question5opt3.png)
 
 * Figure 4:
+
 ![](images/question5opt4.png)
 
 
