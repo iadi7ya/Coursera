@@ -112,3 +112,4 @@ _Correct answers are in **bold**._
 * **Increasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.**
 
 * **Increasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.**
+
