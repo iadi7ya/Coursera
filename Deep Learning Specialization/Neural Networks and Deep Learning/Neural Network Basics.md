@@ -38,13 +38,11 @@ _Correct answers are in **bold**._
 
 
 **Question 4**. Consider the two following random arrays "a" and "b":
-
+<pre>
 a = np.random.randn(2, 3) # a.shape = (2, 3)
-<br>
 b = np.random.randn(2, 1) # b.shape = (2, 1)
-<br>
 c = a + b
-<br>
+</pre>
 What will be the shape of "c"?
 
 * **c.shape = (2, 3)**
@@ -58,12 +56,11 @@ What will be the shape of "c"?
 
 **Question 5**. Consider the two following random arrays "a" and "b":
 
+<pre>
 a = np.random.randn(4, 3) # a.shape = (4, 3)
-<br>
 b = np.random.randn(3, 2) # b.shape = (3, 2)
-<br>
 c = a*b
-<br>
+</pre>
 What will be the shape of "c"?
 
 * c.shape = (4, 3)
@@ -89,12 +86,11 @@ What will be the shape of "c"?
 **Question 7**. Recall that "np.dot(a,b)" performs a matrix multiplication on a and b, whereas "a*b" performs an element-wise multiplication.
 Consider the two following random arrays "a" and "b":
 
+<pre>
 a = np.random.randn(12288, 150) # a.shape = (12288, 150)
-<br>
 b = np.random.randn(150, 45) # b.shape = (150, 45)
-<br>
 c = np.dot(a,b)
-<br>
+</pre>
 What is the shape of c?
 
 * The computation cannot happen because the sizes don't match. It's going to be "Error"!
@@ -107,15 +103,14 @@ What is the shape of c?
 
 
 **Question 8**. Consider the following code snippet:
-
+<pre>
 \# a.shape = (3,4)
 \# b.shape = (4,1)
 
-<pre>for i in range(3):
+for i in range(3):
   for j in range(4):
     c[i][j] = a[i][j] + b[j]
 </pre>
-<br>
 How do you vectorize this?
 
 * c = a.T + b.T
@@ -129,12 +124,11 @@ How do you vectorize this?
 
 **Question 9**. Consider the following code:
 
+<pre>
 a = np.random.randn(3, 3)
-<br>
 b = np.random.randn(3, 1)
-<br>
 c = a*b
-<br>
+</pre>
 What will be c? (If you’re not sure, feel free to run this in python to find out).
 
 * **This will invoke broadcasting, so b is copied three times to become (3,3), and ∗*∗ is an element-wise product so c.shape will be (3, 3)**
