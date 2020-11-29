@@ -3,7 +3,7 @@ This repository contains different Coursera specilazation Assignment Solutions i
 
 # Advanced Data Science with IBM Specialization
 
-### 1. [Fundamentals of Scalable Data Science]()
+### 1. [Fundamentals of Scalable Data Science](https://github.com/iadi7ya/Coursera/tree/master/Advanced%20Data%20Science%20with%20IBM%20Specialization/Fundamentals%20of%20Scalable%20Data%20Science)
   - [Week 1 - Assignment 1](https://github.com/iadi7ya/Coursera/blob/master/Advanced%20Data%20Science%20with%20IBM%20Specialization/Fundamentals%20of%20Scalable%20Data%20Science/Week%201%20-%20Assignment%201.ipynb)
   - [Week 1 - Assignment 2](https://github.com/iadi7ya/Coursera/blob/master/Advanced%20Data%20Science%20with%20IBM%20Specialization/Fundamentals%20of%20Scalable%20Data%20Science/Week%201%20-%20Assignment%202.ipynb)
   - [Week 2 Assignment](https://github.com/iadi7ya/Coursera/blob/master/Advanced%20Data%20Science%20with%20IBM%20Specialization/Fundamentals%20of%20Scalable%20Data%20Science/Week%202%20Assignment.ipynb)
