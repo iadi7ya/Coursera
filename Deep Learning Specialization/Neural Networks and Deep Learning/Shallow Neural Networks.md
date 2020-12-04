@@ -15,9 +15,9 @@ _Correct answers are in **bold**._
 
 * **a4[2]​ is the activation output by the 4th neuron of the 2nd layer**
 
-* **a[2](12) denotes the activation vector of the 2nd layer for the 12th training example.**
+* **a[2] (12) denotes the activation vector of the 2nd layer for the 12th training example.**
 
-* a[2](12) denotes activation vector of the 12th layer on the 2nd training example.
+* a[2] (12) denotes activation vector of the 12th layer on the 2nd training example.
 
 * **X is a matrix in which each column is one training example.**
 
@@ -31,13 +31,13 @@ _Correct answers are in **bold**._
 
 **Question 3**. Which of these is a correct vectorized implementation of forward propagation for layer lll, where 1≤l≤L1 \leq l \leq L1≤l≤L?
 
-* **Z[l]=W[l]A[l−1]+b[l]; A[l]=g[l](Z[l])**
+* **Z[l]=W[l]A[l−1]+b[l]; A[l]=g[l] (Z[l])**
 
-* Z[l]=W[l−1]A[l]+b[l−1]; A[l]=g[l](Z[l])
+* Z[l]=W[l−1]A[l]+b[l−1]; A[l]=g[l] (Z[l])
 
-* Z[l]=W[l]A[l]+b[l]; A[l+1]=g[l+1](Z[l])
+* Z[l]=W[l]A[l]+b[l]; A[l+1]=g[l+1] (Z[l])
 
-* Z[l]=W[l]A[l]+b[l]; A[l+1]=g[l](Z[l])
+* Z[l]=W[l]A[l]+b[l]; A[l+1]=g[l] (Z[l])
 
 
 **Question 4**. You are building a binary classifier for recognizing cucumbers (y=1) vs. watermelons (y=0). Which one of these activation functions would you recommend using for the output layer?
