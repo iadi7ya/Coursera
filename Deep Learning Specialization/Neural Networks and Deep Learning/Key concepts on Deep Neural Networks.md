@@ -72,9 +72,9 @@ for i in range(1, len(layer_dims)):
 
 * 
 <pre>
-**for i in range(1, len(layer_dims)):**
-    **parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1]) * 0.01**
-    **parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1) * 0.01**
+<b>for i in range(1, len(layer_dims)):</b>
+    <b>parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1]) * 0.01</b>
+    <b>parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1) * 0.01</b>
 </pre>
 
 
