@@ -3,7 +3,7 @@
 
 _Correct answers are in **bold**._
 <br>
-![](images/w3question9.png)
+
 
 **Question 1**. What is the "cache" used for in our implementation of forward propagation and backward propagation?
 
@@ -49,25 +49,29 @@ _Correct answers are in **bold**._
 
 **Question 5**. Assume we store the values for n[l] in an array called layer_dims, as follows: layer_dims = [nx​, 4,3,2,1]. So layer 1 has four hidden units, layer 2 has 3 hidden units and so on. Which of the following for-loops will allow you to initialize the parameters for the model?
 
-* <pre>
+* 
+<pre>
 for i in range(1, len(layer_dims)/2):
     parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1]) * 0.01
     parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1) * 0.01 
 </pre>
 
-* <pre>
+* 
+<pre>
 for i in range(1, len(layer_dims)/2):
     parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1]) * 0.01
     parameter['b' + str(i)] = np.random.randn(layer_dims[i-1], 1) * 0.01 
 </pre>
 
-* <pre>
+* 
+<pre>
 for i in range(1, len(layer_dims)): 
     parameter['W' + str(i)] = np.random.randn(layer_dims[i-1], layer_dims[i]) * 0.01
     parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1) * 0.01 
 </pre>
 
-* <pre>
+* 
+<pre>
 **for i in range(1, len(layer_dims)):**
     **parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1]) * 0.01**
     **parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1) * 0.01**
