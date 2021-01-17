@@ -32,22 +32,26 @@ _Correct answers are in **bold**._
 
 **Question 4**. If you think β (hyperparameter for momentum) is between on 0.9 and 0.99, which of the following is the recommended way to sample a value for beta?
 
-* <pre>
+* 
+<pre>
 r = np.random.rand()
 beta = r*0.09 + 0.9 
 </pre>
 
-* <pre>
+* 
+<pre>
 <b>r = np.random.rand()</b>
 <b>beta = 1-10**(- r - 1)</b>
 </pre>
 
-* <pre>
+* 
+<pre>
 r = np.random.rand()
 beta = 1-10**(- r + 1)
 </pre>
 
-* <pre>
+* 
+<pre>
 r = np.random.rand()
 beta = r*0.9 + 0.09 
 </pre>
@@ -113,4 +117,3 @@ beta = r*0.9 + 0.09
 * Deep learning programming frameworks require cloud-based machines to run. 
 
 * **A programming framework allows you to code up deep learning algorithms with typically fewer lines of code than a lower-level language such as Python.**
-Correct
