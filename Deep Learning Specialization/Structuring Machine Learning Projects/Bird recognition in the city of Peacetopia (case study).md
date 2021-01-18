@@ -45,6 +45,7 @@ Note: Having three evaluation metrics makes it harder for you to quickly choose 
     “We want the model to fit in 10MB of memory.” 
 
 If you had the three following models, which one would you choose?
+
 * 
 <pre>
 Test Accuracy	Runtime	Memory size
@@ -233,7 +234,7 @@ What can you conclude? (Check all that apply.)
 
 * **If the test set is big enough for the 0.05% error estimate to be accurate, this implies Bayes error is ≤0.05\leq 0.05%≤0.05**
 
-This is a statistical anomaly (or must be the result of statistical noise) since it should not be possible to surpass human-level performance. 
+* This is a statistical anomaly (or must be the result of statistical noise) since it should not be possible to surpass human-level performance. 
 
 
 **Question 13**. It turns out Peacetopia has hired one of your competitors to build a system as well. Your system and your competitor both deliver systems with about the same running time and memory size. However, your system has higher accuracy! However, when Peacetopia tries out your and your competitor’s systems, they conclude they actually like your competitor’s system better, because even though you have higher overall accuracy, you have more false negatives (failing to raise an alarm when a bird is in the air). What should you do?
