@@ -9,6 +9,8 @@ _Correct answers are in **bold**._
 
 You are employed by a startup building self-driving cars. You are in charge of detecting road signs (stop sign, pedestrian crossing sign, construction ahead sign) and traffic signals (red and green lights) in images. The goal is to recognize which of these objects appear in each image. As an example, the above image contains a pedestrian crossing sign and red traffic lights
 
+![](images/w2question1.png)
+
 Your 100,000 labeled images are taken using the front-facing camera of your car. This is also the distribution of data you care most about doing well on. You think you might be able to get a much larger dataset off the internet, that could be helpful for training even if the distribution of internet data is not the same. 
 
 You are just getting started on this project. What is the first thing you do? Assume each of the steps below would take about an equal amount of time (a few days).
@@ -74,8 +76,8 @@ Because this is a multi-task learning problem, you need to have all your  y(i) v
 Dataset:	Contains:												Error of the algorithm:
 Training	940,000 images randomly picked from (900,000 internet images + 60,000 car’s front-facing camera images)	8.8%
 Training-Dev	20,000 images randomly picked from (900,000 internet images + 60,000 car’s front-facing camera images)	9.1%
-Dev	20,000 images from your car’s front-facing camera								14.3%
-Test	20,000 images from the car’s front-facing camera								14.8%
+Dev		20,000 images from your car’s front-facing camera								14.3%
+Test		20,000 images from the car’s front-facing camera								14.8%
 </pre>
 You also know that human-level error on the road sign and traffic signals classification task is around 0.5%. Which of the following are True? (Check all that apply).
 
@@ -134,6 +136,8 @@ Additional Note: there are subtle concepts to consider with this question, and y
 
 
 **Question 10**. You decide to use data augmentation to address foggy images. You find 1,000 pictures of fog off the internet, and “add” them to clean images to synthesize foggy days, like this:
+
+![](images/w2question10.png)
 
 Which of the following statements do you agree with?
 
