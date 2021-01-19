@@ -9,6 +9,8 @@ _Correct answers are in **bold**._
 
 This example is adapted from a real production application, but with details disguised to protect confidentiality.
 
+![](images/w1question1.png)
+
 You are a famous researcher in the City of Peacetopia. The people of Peacetopia have a common characteristic: they are afraid of birds. To save them, you have to build an algorithm that will detect any bird flying over Peacetopia and alert the population.
 
 The City Council gives you a dataset of 10,000,000 images of the sky above Peacetopia, taken from the city’s security cameras. They are labelled:
@@ -250,6 +252,8 @@ What can you conclude? (Check all that apply.)
 
 **Question 14**. You’ve handily beaten your competitor, and your system is now deployed in Peacetopia and is protecting the citizens from birds! But over the last few months, a new species of bird has been slowly migrating into the area, so the performance of your system slowly degrades because your data is being tested on a new type of data.
 
+![](images/w1question14.png)
+
 You have only 1,000 images of the new species of bird. The city expects a better system from you within the next 3 months. Which of these should you do first?
 
 * **Use the data you have to define a new evaluation metric (using a new dev/test set) taking into account the new species, and use that to drive further progress for your team.**
@@ -265,7 +269,7 @@ You have only 1,000 images of the new species of bird. The city expects a better
 
 * Having built a good Bird detector, you should be able to take the same model and hyperparameters and just apply it to the Cat dataset, so there is no need to iterate. 
 
-* **If 100,000,000 examples is enough to build a good enough Cat detector, you might be better of training with just 10,000,000 examples to gain a ≈\approx≈10x improvement in how quickly you can run experiments, even if each model performs a bit worse because it’s trained on less data.**
+* **If 100,000,000 examples is enough to build a good enough Cat detector, you might be better of training with just 10,000,000 examples to gain a ≈10x improvement in how quickly you can run experiments, even if each model performs a bit worse because it’s trained on less data.**
 
 * **Needing two weeks to train will limit the speed at which you can iterate.**
 
